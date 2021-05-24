@@ -1,3 +1,3 @@
 # Programming_1_Portfolio
-computer programming
+# computer programming
 craistep9581@granitesd.org
